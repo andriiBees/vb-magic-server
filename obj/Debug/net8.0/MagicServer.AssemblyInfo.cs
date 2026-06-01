@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MagicServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e54afa061cadb271d3b7226eaabb56af1efc6a4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69d19fa545c33534c94ef53bb5945e26de88e642")]
 [assembly: System.Reflection.AssemblyProductAttribute("MagicServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MagicServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
